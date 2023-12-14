@@ -1,4 +1,4 @@
-# react_django_demo_app
+# react_django_demo
 A demo app for React and Django Deployment
 
 docker-compose down
